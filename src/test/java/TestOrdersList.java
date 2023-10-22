@@ -1,4 +1,4 @@
-import Config.ApiOrder;
+import config.ApiOrder;
 import io.qameta.allure.*;
 import io.restassured.response.ValidatableResponse;
 import org.junit.Test;

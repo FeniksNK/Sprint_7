@@ -1,6 +1,6 @@
-package Config;
-import Courier.Courier;
-import Courier.CourierLogin;
+package config;
+import courier.Courier;
+import courier.CourierLogin;
 
 
 import io.qameta.allure.Step;

@@ -1,6 +1,6 @@
-import Config.ApiOrder;
-import Order.OrderGenerator;
-import Order.OrderRequest;
+import config.ApiOrder;
+import order.OrderGenerator;
+import order.OrderRequest;
 import io.qameta.allure.*;
 import io.restassured.response.ValidatableResponse;
 import org.junit.Test;

@@ -1,5 +1,5 @@
-import Config.ApiCourier;
-import Courier.Courier;
+import config.ApiCourier;
+import courier.Courier;
 import io.qameta.allure.Description;
 import io.qameta.allure.Feature;
 import io.qameta.allure.Story;
@@ -7,7 +7,7 @@ import io.restassured.response.ValidatableResponse;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-import Courier.CourierGenerator;
+import courier.CourierGenerator;
 
 import static org.hamcrest.CoreMatchers.equalTo;
 

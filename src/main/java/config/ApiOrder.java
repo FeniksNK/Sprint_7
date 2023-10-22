@@ -1,8 +1,8 @@
-package Config;
+package config;
 
 import io.qameta.allure.Step;
 import io.restassured.response.ValidatableResponse;
-import Order.OrderRequest;
+import order.OrderRequest;
 import static io.restassured.RestAssured.given;
 
 public class ApiOrder extends App {

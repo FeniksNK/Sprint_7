@@ -1,7 +1,7 @@
-import Config.ApiCourier;
-import Courier.CourierGenerator;
-import Courier.CourierLogin;
-import Courier.Courier;
+import config.ApiCourier;
+import courier.CourierGenerator;
+import courier.CourierLogin;
+import courier.Courier;
 import io.qameta.allure.*;
 import io.restassured.response.ValidatableResponse;
 
