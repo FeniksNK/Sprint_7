@@ -1,4 +1,4 @@
-```
+```vhd
 z_part <= z - x_dff1 - y_dff1;
 ```
 
