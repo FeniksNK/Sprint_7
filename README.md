@@ -1,3 +1,6 @@
+`$this->list = list(Array("1"=> 2, 2=>self::ME, 3 => \Location\Web\URI::class));`
+`$this->list = list(Array("1"=> 2, 2=>self::ME, 3 => \Location\Web\URI::class));`
+
 ```vhd
 z_part <= z - x_dff1 - y_dff1;
 ```
