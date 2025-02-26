@@ -8,12 +8,14 @@ public class CourierGenerator {
         String firstName = RandomStringUtils.randomAlphabetic(10);
         return new Courier(login, password, firstName);
     }
-
+каукакаукукаук
+    
     public static Courier getRandomLoginAndPassword() {
         String login = RandomStringUtils.randomAlphabetic(10);
         String password = RandomStringUtils.randomAlphabetic(10);
         return new Courier(login, password);
     }
+укаукаукук
 
     public static Courier getRandomPassword() {
         Courier courier = new Courier();
