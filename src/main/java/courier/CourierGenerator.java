@@ -17,8 +17,6 @@ public class CourierGenerator {
 
     public static Courier getRandomPassword() {
         Courier courier = new Courier();
-        String password = RandomStringUtils.randomAlphabetic(5);
-        courier.setPassword(password);
-        return courier;
+        String password = RandomStringUtils.randomAlphabetic(5)
     }
 }
